@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World!👋 안녕하세요!!, I'm MunKyungMan</h1>
+<h1 align="center">Hello, World!👋 안녕하세요!, I'm MunKyungMan</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 
 📫 How to reach me **oyesman1@naver.com**
